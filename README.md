@@ -11,8 +11,7 @@
 
 ### Description
 
-This Pookalam is built with Python Turtle as a layered radial artwork for Onam. The design uses concentric circles, geometric sector patterns, repeated triangle bands, decorative border rings, diyas, [...]
-
+This Pookalam is built with Python Turtle as a layered radial artwork for Onam. The design uses concentric circles, geometric sector patterns, repeated triangle bands, decorative border rings, diyas, and a central sunflower created with a phyllotactic spiral.
 Every layer is generated through code, turning angles, radii, color palettes, and repeated shapes into a complete digital flower carpet.
 
 ### Preview
