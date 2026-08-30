@@ -16,9 +16,9 @@ Every layer is generated through code, turning angles, radii, color palettes, an
 
 ### Preview
 
-![Pookalam Design](pookalam.png)
+[https://github.com/user-attachments/assets/69f13452-1c0b-4718-8030-39def3b4423a](https://github.com/user-attachments/assets/69f13452-1c0b-4718-8030-39def3b4423a)
 
-*Execution video available as pookalam.mp4*
+*Execution video available as pookalam.mp4 and final screenshot available as pookalam.png*
 
 ### Features
 
